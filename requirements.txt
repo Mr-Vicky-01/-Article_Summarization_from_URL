@@ -1,0 +1,9 @@
+unstructured==0.9.2
+langchain
+huggingface_hub
+transformers
+sentence_transformers
+gTTS
+gradio
+langchain-community
+IPython
