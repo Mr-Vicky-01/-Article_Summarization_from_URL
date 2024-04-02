@@ -8,6 +8,8 @@ Article Summarization from URL is a project that extracts text from a given URL,
 2. **Summarization**: The extracted text serves as input for the summarization model. It uses the Conversational Summarization model from Hugging Face to generate a concise summary.
 3. **Text-to-Speech Conversion**: The generated summary is converted into audio format using the gTTS library, providing users with an audio version of the summary.
 
+![image](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/3e1e4c6f-330a-4bf7-b7ae-0dfca01d2644)
+
 ## Usage
 
 To use the Article Summarization from URL:
