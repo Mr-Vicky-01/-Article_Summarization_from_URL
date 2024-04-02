@@ -48,4 +48,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to Hugging Face for providing the Conversational Summarization model.
 - Thanks to gTTS for providing the text-to-speech functionality.
 
-## Demo
+## Demo Usage
+https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/f6a0d9a5-2d66-4094-8814-85408d3c53fc
